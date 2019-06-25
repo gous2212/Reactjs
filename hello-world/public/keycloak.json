@@ -1,0 +1,8 @@
+{
+  "realm": "RecruitmentAndSelection",
+  "auth-server-url": "http://inhydngousem.comakeit.com/auth",
+  "ssl-required": "external",
+  "resource": "hello-world",
+  "public-client": true,
+  "confidential-port": 0
+}
