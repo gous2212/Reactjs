@@ -157,7 +157,7 @@ input[type=submit]:hover {
   background-attachment: fixed;
   background-size: 100% 100%;
   background-position: top;
-  background-image:url(C:\Users\gousem\Desktop\selection.png);
+  background-image:url(img/selection.png);
   width: 100%;
   height: 100%;
   font-family: Arial, Helvetica;
@@ -197,7 +197,7 @@ input[type=submit]:hover {
    position: relative;
    border-radius: 50%;
    background-size: contain;
-   background-image: url(C:\Users\gousem\Desktop\Logo-coMakeIT.jpg);
+   background-image: url(img/Logo-coMakeIT.jpg);
  }
  
  .user-name{
